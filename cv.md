@@ -31,4 +31,4 @@ public class Multiply {
 * Far Eastern Federal University - Economist.
 
 ## English
-My English level is now - A2
+My English level is now - A2.
